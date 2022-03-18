@@ -167,11 +167,11 @@ After adding test cases, we increased Range mutation coverage to 54%.
 
 ![](ScreenShots/RangeTestNewWIthTests.PNG)
 
-Our initial DataUtilites had % mutation coverage.
+Our initial DataUtilites had 44% mutation coverage.
 
 ![](ScreenShots/DataUtilitesPrevious(1).PNG)
 
-After adding test cases, we increased mutation coverage to %.
+After adding test cases, we increased mutation coverage to 56%.
 
 ![](ScreenShots/DataUtilitiesPrevious.PNG)
 
